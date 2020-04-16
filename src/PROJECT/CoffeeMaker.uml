@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>PROJECT.CoffeeMaker.Boiler</OriginalElement>
+  <nodes>
+    <node x="999.5" y="902.0">PROJECT.UseCaseScenarios.TestCoffeeMaker</node>
+    <node x="335.44642857142856" y="1247.0">PROJECT.M4CoffeeMaker.M4Boiler</node>
+    <node x="429.5" y="902.0">PROJECT.CoffeeMaker.Boiler</node>
+    <node x="87.5" y="0.0">PROJECT.CoffeeMaker.CoffeeMakerAPI</node>
+    <node x="723.5" y="902.0">PROJECT.CoffeeMaker.WarmerPlate</node>
+    <node x="210.0" y="619.0">PROJECT.M4CoffeeMaker.M4CoffeeMakerApiImplementation</node>
+    <node x="1286.5" y="902.0">PROJECT.CoffeeMaker.CoffeeMaker</node>
+    <node x="298.44642857142856" y="1024.5">PROJECT.CoffeeMaker.Pollable</node>
+    <node x="0.0" y="935.5">PROJECT.CoffeeMaker.UserInterface</node>
+    <node x="647.75" y="1247.0">PROJECT.M4CoffeeMaker.M4WarmerPlate</node>
+    <node x="55.446428571428555" y="1269.5">PROJECT.M4CoffeeMaker.M4UserInterface</node>
+    <node x="0.0" y="563.0">PROJECT.UseCaseScenarios.CoffeeMakerStub</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="PROJECT.M4CoffeeMaker.M4UserInterface" target="PROJECT.CoffeeMaker.UserInterface">
+      <point x="-65.0" y="-70.0" />
+      <point x="120.44642857142856" y="1227.0" />
+      <point x="113.0" y="1227.0" />
+      <point x="0.0" y="114.0" />
+    </edge>
+    <edge source="PROJECT.M4CoffeeMaker.M4CoffeeMakerApiImplementation" target="PROJECT.CoffeeMaker.CoffeeMakerAPI">
+      <point x="0.0" y="-91.0" />
+      <point x="338.0" y="538.0" />
+      <point x="281.0" y="538.0" />
+      <point x="64.5" y="256.5" />
+    </edge>
+    <edge source="PROJECT.M4CoffeeMaker.M4WarmerPlate" target="PROJECT.CoffeeMaker.Pollable">
+      <point x="-63.75" y="-92.5" />
+      <point x="711.5" y="1217.0" />
+      <point x="388.44642857142856" y="1217.0" />
+      <point x="36.0" y="25.0" />
+    </edge>
+    <edge source="PROJECT.M4CoffeeMaker.M4WarmerPlate" target="PROJECT.CoffeeMaker.WarmerPlate">
+      <point x="63.75" y="-92.5" />
+      <point x="0.0" y="147.5" />
+    </edge>
+    <edge source="PROJECT.M4CoffeeMaker.M4Boiler" target="PROJECT.CoffeeMaker.Boiler">
+      <point x="61.25" y="-92.5" />
+      <point x="519.1964285714286" y="1227.0" />
+      <point x="566.5" y="1227.0" />
+      <point x="0.0" y="147.5" />
+    </edge>
+    <edge source="PROJECT.M4CoffeeMaker.M4Boiler" target="PROJECT.CoffeeMaker.Pollable">
+      <point x="-61.25" y="-92.5" />
+      <point x="396.69642857142856" y="1227.0" />
+      <point x="352.44642857142856" y="1227.0" />
+      <point x="0.0" y="25.0" />
+    </edge>
+    <edge source="PROJECT.M4CoffeeMaker.M4UserInterface" target="PROJECT.CoffeeMaker.Pollable">
+      <point x="65.0" y="-70.0" />
+      <point x="250.44642857142856" y="1227.0" />
+      <point x="316.44642857142856" y="1227.0" />
+      <point x="-36.0" y="25.0" />
+    </edge>
+    <edge source="PROJECT.UseCaseScenarios.CoffeeMakerStub" target="PROJECT.CoffeeMaker.CoffeeMakerAPI">
+      <point x="0.0" y="-147.0" />
+      <point x="95.0" y="538.0" />
+      <point x="152.0" y="538.0" />
+      <point x="-64.5" y="256.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.571625344352617" x="724.5" y="716.0000000000001" />
+  <SelectedNodes>
+    <node>PROJECT.CoffeeMaker.Boiler</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

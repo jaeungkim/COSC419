@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Jae_Test3.Jae_Q4_DesignPatterns.backStroke</OriginalElement>
+  <nodes>
+    <node x="167.0" y="232.0">Jae_Test3.Jae_Q4_DesignPatterns.freeStyle</node>
+    <node x="76.0" y="0.0">Jae_Test3.Jae_Q4_DesignPatterns.swimTypes</node>
+    <node x="0.0" y="232.0">Jae_Test3.Jae_Q4_DesignPatterns.backStroke</node>
+    <node x="0.0" y="349.0">Jae_Test3.Jae_Q4_DesignPatterns.Jae_TemplatePattern</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Jae_Test3.Jae_Q4_DesignPatterns.backStroke" target="Jae_Test3.Jae_Q4_DesignPatterns.swimTypes">
+      <point x="0.0" y="-36.0" />
+      <point x="73.5" y="207.0" />
+      <point x="116.5" y="207.0" />
+      <point x="-40.5" y="91.0" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q4_DesignPatterns.freeStyle" target="Jae_Test3.Jae_Q4_DesignPatterns.swimTypes">
+      <point x="0.0" y="-36.0" />
+      <point x="240.5" y="207.0" />
+      <point x="197.5" y="207.0" />
+      <point x="40.5" y="91.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="157.0" y="199.5" />
+  <SelectedNodes>
+    <node>Jae_Test3.Jae_Q4_DesignPatterns.backStroke</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

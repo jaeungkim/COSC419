@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Jae_Test3.Jae_Q3.Chain</OriginalElement>
+  <nodes>
+    <node x="612.0" y="123.0">Jae_Test3.Jae_Q3.months</node>
+    <node x="0.0" y="241.0">Jae_Test3.Jae_Q3.Number</node>
+    <node x="306.0" y="0.0">Jae_Test3.Jae_Q3.Chain</node>
+    <node x="204.0" y="123.0">Jae_Test3.Jae_Q3.weeks</node>
+    <node x="408.0" y="123.0">Jae_Test3.Jae_Q3.years</node>
+    <node x="170.0" y="241.0">Jae_Test3.Jae_Q3.Q3</node>
+    <node x="0.0" y="123.0">Jae_Test3.Jae_Q3.days</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Jae_Test3.Jae_Q3.years" target="Jae_Test3.Jae_Q3.Chain">
+      <point x="0.0" y="-36.5" />
+      <point x="500.0" y="103.0" />
+      <point x="421.0" y="103.0" />
+      <point x="23.0" y="36.5" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q3.weeks" target="Jae_Test3.Jae_Q3.Chain">
+      <point x="0.0" y="-36.5" />
+      <point x="296.0" y="103.0" />
+      <point x="375.0" y="103.0" />
+      <point x="-23.0" y="36.5" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q3.months" target="Jae_Test3.Jae_Q3.Chain">
+      <point x="0.0" y="-36.5" />
+      <point x="704.0" y="93.0" />
+      <point x="467.0" y="93.0" />
+      <point x="69.0" y="36.5" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q3.days" target="Jae_Test3.Jae_Q3.Chain">
+      <point x="0.0" y="-36.5" />
+      <point x="92.0" y="93.0" />
+      <point x="329.0" y="93.0" />
+      <point x="-69.0" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8174019607843137" x="398.0" y="157.0" />
+  <SelectedNodes>
+    <node>Jae_Test3.Jae_Q3.Chain</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

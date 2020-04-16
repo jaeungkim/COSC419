@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Jae_Test3.Jae_Q2.circle</OriginalElement>
+  <nodes>
+    <node x="0.0" y="144.0">Jae_Test3.Jae_Q2.rectangle</node>
+    <node x="409.0" y="155.0">Jae_Test3.Jae_Q2.circle</node>
+    <node x="229.0" y="155.0">Jae_Test3.Jae_Q2.square</node>
+    <node x="229.0" y="0.0">Jae_Test3.Jae_Q2.Shape</node>
+    <node x="0.0" y="351.0">Jae_Test3.Jae_Q2.Q2</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Jae_Test3.Jae_Q2.circle" target="Jae_Test3.Jae_Q2.Shape">
+      <point x="0.0" y="-70.0" />
+      <point x="489.0" y="119.0" />
+      <point x="362.33333333333337" y="119.0" />
+      <point x="53.33333333333337" y="47.0" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q2.square" target="Jae_Test3.Jae_Q2.Shape">
+      <point x="0.0" y="-70.0" />
+      <point x="0.0" y="47.0" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q2.rectangle" target="Jae_Test3.Jae_Q2.Shape">
+      <point x="0.0" y="-81.0" />
+      <point x="104.5" y="119.0" />
+      <point x="255.66666666666666" y="119.0" />
+      <point x="-53.33333333333334" y="47.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="284.5" y="200.5" />
+  <SelectedNodes>
+    <node>Jae_Test3.Jae_Q2.circle</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

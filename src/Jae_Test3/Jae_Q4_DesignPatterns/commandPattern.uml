@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Jae_Test3.Jae_Q4_DesignPatterns.backStyleStroke</OriginalElement>
+  <nodes>
+    <node x="342.00000000000006" y="100.0">Jae_Test3.Jae_Q4_DesignPatterns.flyStyleStroke</node>
+    <node x="263.25000000000006" y="0.0">Jae_Test3.Jae_Q4_DesignPatterns.Command</node>
+    <node x="0.0" y="195.0">Jae_Test3.Jae_Q4_DesignPatterns.Jae_CommandPattern</node>
+    <node x="506.00000000000006" y="100.0">Jae_Test3.Jae_Q4_DesignPatterns.breastStyleStroke</node>
+    <node x="171.00000000000006" y="100.0">Jae_Test3.Jae_Q4_DesignPatterns.freeStyleStroke</node>
+    <node x="0.0" y="100.0">Jae_Test3.Jae_Q4_DesignPatterns.backStyleStroke</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Jae_Test3.Jae_Q4_DesignPatterns.flyStyleStroke" target="Jae_Test3.Jae_Q4_DesignPatterns.Command">
+      <point x="0.0" y="-25.0" />
+      <point x="414.00000000000006" y="80.0" />
+      <point x="347.00000000000006" y="80.0" />
+      <point x="16.75" y="25.0" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q4_DesignPatterns.breastStyleStroke" target="Jae_Test3.Jae_Q4_DesignPatterns.Command">
+      <point x="0.0" y="-25.0" />
+      <point x="588.5" y="70.0" />
+      <point x="380.50000000000006" y="70.0" />
+      <point x="50.25" y="25.0" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q4_DesignPatterns.freeStyleStroke" target="Jae_Test3.Jae_Q4_DesignPatterns.Command">
+      <point x="0.0" y="-25.0" />
+      <point x="246.50000000000006" y="80.0" />
+      <point x="313.50000000000006" y="80.0" />
+      <point x="-16.75" y="25.0" />
+    </edge>
+    <edge source="Jae_Test3.Jae_Q4_DesignPatterns.backStyleStroke" target="Jae_Test3.Jae_Q4_DesignPatterns.Command">
+      <point x="0.0" y="-25.0" />
+      <point x="75.5" y="70.0" />
+      <point x="280.00000000000006" y="70.0" />
+      <point x="-50.25" y="25.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="335.5" y="144.5" />
+  <SelectedNodes>
+    <node>Jae_Test3.Jae_Q4_DesignPatterns.backStyleStroke</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
